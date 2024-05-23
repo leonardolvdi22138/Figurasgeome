@@ -1,0 +1,10 @@
+D:\TRABAJOS\figurageometrica\figurageometrica\bin\Debug\figurageometrica.exe.config
+D:\TRABAJOS\figurageometrica\figurageometrica\bin\Debug\figurageometrica.exe
+D:\TRABAJOS\figurageometrica\figurageometrica\bin\Debug\figurageometrica.pdb
+D:\TRABAJOS\figurageometrica\figurageometrica\obj\Debug\figurageometrica.csproj.AssemblyReference.cache
+D:\TRABAJOS\figurageometrica\figurageometrica\obj\Debug\figurageometrica.Form1.resources
+D:\TRABAJOS\figurageometrica\figurageometrica\obj\Debug\figurageometrica.Properties.Resources.resources
+D:\TRABAJOS\figurageometrica\figurageometrica\obj\Debug\figurageometrica.csproj.GenerateResource.cache
+D:\TRABAJOS\figurageometrica\figurageometrica\obj\Debug\figurageometrica.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\figurageometrica\figurageometrica\obj\Debug\figurageometrica.exe
+D:\TRABAJOS\figurageometrica\figurageometrica\obj\Debug\figurageometrica.pdb
